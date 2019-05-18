@@ -1,0 +1,15 @@
+<xml>
+ <item>
+  <name>腾讯通RTX</name>
+  <type>1</type>
+  <initstate>102</initstate>
+  <system>0</system>
+  <desc>RTX</desc>
+  <path>C:\Program Files\Tencent\RTXC\RTX.exe</path>
+  <exepath>C:\Users\tinyshu\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\腾讯通RTX.lnk</exepath>
+  <value></value>
+  <display></display>
+  <warning></warning>
+  <dispath>C:\Users\tinyshu\AppData\Roaming\GJQ\disuserrun</dispath>
+ </item>
+</xml>

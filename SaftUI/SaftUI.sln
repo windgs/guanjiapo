@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SaftUI", "SaftUI.vcproj", "{3C25223E-A5AC-484D-9B37-3F254E7FD5E1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EraseFilePlugin", "..\EraseFilePlugin\EraseFilePlugin.vcproj", "{5E1372E4-2563-43DB-AA3B-DD3BC84BDFCF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrashCleanPlugin", "..\TrashCleanPlugin\TrashCleanPlugin.vcproj", "{FA8D7FD2-1D6C-4021-B98D-0A16C677BD66}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SystemOptplugin", "..\SystemOptplugin\SystemOptplugin.vcproj", "{C9EA2E89-E578-45EF-933C-66A2C3B3B288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C25223E-A5AC-484D-9B37-3F254E7FD5E1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C25223E-A5AC-484D-9B37-3F254E7FD5E1}.Debug|Win32.Build.0 = Debug|Win32
+		{3C25223E-A5AC-484D-9B37-3F254E7FD5E1}.Release|Win32.ActiveCfg = Release|Win32
+		{3C25223E-A5AC-484D-9B37-3F254E7FD5E1}.Release|Win32.Build.0 = Release|Win32
+		{5E1372E4-2563-43DB-AA3B-DD3BC84BDFCF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5E1372E4-2563-43DB-AA3B-DD3BC84BDFCF}.Debug|Win32.Build.0 = Debug|Win32
+		{5E1372E4-2563-43DB-AA3B-DD3BC84BDFCF}.Release|Win32.ActiveCfg = Release|Win32
+		{5E1372E4-2563-43DB-AA3B-DD3BC84BDFCF}.Release|Win32.Build.0 = Release|Win32
+		{FA8D7FD2-1D6C-4021-B98D-0A16C677BD66}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FA8D7FD2-1D6C-4021-B98D-0A16C677BD66}.Debug|Win32.Build.0 = Debug|Win32
+		{FA8D7FD2-1D6C-4021-B98D-0A16C677BD66}.Release|Win32.ActiveCfg = Release|Win32
+		{FA8D7FD2-1D6C-4021-B98D-0A16C677BD66}.Release|Win32.Build.0 = Release|Win32
+		{C9EA2E89-E578-45EF-933C-66A2C3B3B288}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9EA2E89-E578-45EF-933C-66A2C3B3B288}.Debug|Win32.Build.0 = Debug|Win32
+		{C9EA2E89-E578-45EF-933C-66A2C3B3B288}.Release|Win32.ActiveCfg = Release|Win32
+		{C9EA2E89-E578-45EF-933C-66A2C3B3B288}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		QtVersion = $(DefaultQtVersion)
+	EndGlobalSection
+EndGlobal

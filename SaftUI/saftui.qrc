@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/back_group">
+        <file>Resources/min_button/tab_back1.png</file>
+        <file>Resources/gif/loading.gif</file>
+        <file>Resources/gif/running.gif</file>
+        <file>Resources/min_button/msgbox.png</file>
+        <file>Resources/cskin.png</file>
+        <file>Resources/min_button/minback.png</file>
+        <file>Resources/min_button/minb.png</file>
+        <file>Resources/min_button/Min_but.png</file>
+        <file>Resources/min_button/cloudsearch_error_tips.png</file>
+        <file>Resources/min_button/title.png</file>
+        <file>Resources/min_button/catalog_8.png</file>
+        <file>Resources/min_button/plugin_706.png</file>
+        <file>Resources/button/safe.png</file>
+        <file>Resources/min_button/min1.png</file>
+        <file>Resources/check.png</file>
+        <file>Resources/conect.png</file>
+        <file>Resources/button/1.png</file>
+    </qresource>
+</RCC>
